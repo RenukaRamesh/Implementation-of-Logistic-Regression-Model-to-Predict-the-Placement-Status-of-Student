@@ -80,33 +80,43 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ORIGINAL DATA:
+
 ![alt text](1..png)
 
 AFTER REMOVING:
+
 ![alt text](2..png)
 
 NULL DATA:
+
 ![alt text](3..png)
 
 LABEL ENCODER:
+
 ![alt text](4.png) 
 
 X VALUES:
+
 ![alt text](5.png) 
 
 Y VALUES:
+
 ![alt text](6.png) 
 
 Y_prediction:
+
 ![alt text](7.png) 
 
 ACCURACY:
+
 ![alt text](8.png) 
 
 CONFUSION MATRIX:
+
 ![alt text](9.png)
 
 CLASSIFICATION:
+
 ![alt text](10.png)
 
 
